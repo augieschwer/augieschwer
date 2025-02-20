@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-- 📫 How to reach me: ...
-- ![Static Badge](https://img.shields.io/badge/augie%40schwer.us-red?style=social)
-- ![Static Badge](https://img.shields.io/badge/www.schwer.us-red?style=social)
-- ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Faugustschwer%2F-red?style=social)
+![Static Badge](https://img.shields.io/badge/www-schwer.us-red?style=for-the-badge)
 
+![Static Badge](https://img.shields.io/badge/Email-augie%40schwer.us-white?style=for-the-badge)
 
-
+![Static Badge](https://img.shields.io/badge/LinkedIn-augustschwer-blue?style=for-the-badge)
 
 <!--
 **augieschwer/augieschwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
