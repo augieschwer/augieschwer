@@ -1,0 +1,1 @@
+{\"email\":\"augie@schwer.us\",\"www\":\"https://schwer.us\",\"linkedin\":\"https://www.linkedin.com/in/augustschwer/\"}
